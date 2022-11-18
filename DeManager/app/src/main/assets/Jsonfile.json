@@ -1,0 +1,43 @@
+{
+  "departments":[
+    {
+      "departmentname":"Marketing",
+      "employees":[
+        {
+          "name": "Nguyen Tuan Trung",
+          "phno": "09039397979"
+        },
+        {
+          "name": "Dau Xuan Duy",
+          "phno": "09039396886"
+        }
+      ]
+    },
+    {
+      "departmentname":"IT",
+      "employees":[
+        {
+          "name": "Hoang Dai Phong",
+          "phno": "09039397979"
+        },
+        {
+          "name": "Huynh Tuan Kiet",
+          "phno": "09039397979"
+        }
+      ]
+    },
+    {
+      "departmentname":"Sale",
+      "employees":[
+        {
+          "name": "Le Cong Duong",
+          "phno": "09039397979"
+        },
+        {
+          "name": "Nguyen Anh Sang",
+          "phno": "09039397979"
+        }
+      ]
+    }
+  ]
+}
